@@ -1,2 +1,2 @@
 # Moveit
-A transport company that your valuable items with a safety of 5.
+A transport Company that move your valuable items with a safety of 5 and a personal touch.
